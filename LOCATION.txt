@@ -1,0 +1,9 @@
+Lat1
+Lon1
+Alt1
+Lat2
+Lon2
+Alt2
+Lat3
+Lon3
+Alt3
